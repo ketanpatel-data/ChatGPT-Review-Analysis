@@ -76,7 +76,7 @@ TextBlob is a lexicon-based sentiment-analysis tool and may misinterpret context
 - Integrate review data with technical and app-performance metrics.
 
 ## Project Files
-- 01_chatgpt_reviews_csv — the dataset used for the analysis
+- `01_chatgpt_reviews_csv` — the dataset used for the analysis
 - `02_ChatGPT_Reviews_Analysis.ipynb` — notebook containing the analysis, code, and visualizations.
   
 
